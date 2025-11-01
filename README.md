@@ -23,19 +23,31 @@
 
 ---
 
-### 🧩 What We Build
-- 🖼️ **ComfyUI Custom Nodes** — plug-and-play AI modules for creative workflows  
-- 🧠 **Vision–Language Systems** — multimodal understanding with Qwen, LLaVA, and MiniCPM  
-- 🪄 **AI Automation Tools** — simplifying model integration and runtime optimization  
-- 🌐 **Open Source & Collaboration** — empowering the community through shared intelligence  
+### 🧩 About 1038lab
+
+At **1038lab**, we explore the frontier where **AI meets creativity and automation**.  
+Our mission is to advance **multimodal intelligence** — systems that connect **text, vision, and reasoning** into cohesive, intuitive workflows.  
+We design and develop tools that help researchers, developers, and creators harness the potential of AI with precision, transparency, and creativity.
+
+Specialized in **ComfyUI ecosystem engineering**, we build modular AI nodes and integrations that simplify complex model interactions.  
+From **background removal** to **vision–language inference** and **prompt automation**, our projects aim to make cutting-edge AI accessible to everyone.
+
+We welcome **collaboration and partnership opportunities** in areas such as:
+- Multimodal AI and creative automation  
+- ComfyUI system architecture and extensions  
+- Applied AI research and experimental projects  
+
+> 🤝 If you’re interested in working with us — whether through collaboration, sponsored development, or joint research —  
+> feel free to reach out via [GitHub Discussions](https://github.com/1038lab) or email our team.  
+> Together, we can accelerate innovation and shape the next generation of intelligent tools.
 
 ---
 
 ### 📊 Our Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1038lab&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1038lab&layout=compact&theme=radical" height="150" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=1038lab&show_icons=true&theme=radical" height="160" /> 
+  <img src="https://streak-stats.demolab.com?user=1038lab&theme=tokyonight&hide_border=true" height="160"/>
+</a>
 
 ---
 
@@ -44,6 +56,13 @@
   <a href="https://github.com/1038lab?tab=repositories"><img src="https://img.shields.io/badge/Repositories-35-blue?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/1038lab?tab=followers"><img src="https://img.shields.io/github/followers/1038lab?style=for-the-badge" /></a>
   <a href="https://github.com/sponsors/1038lab"><img src="https://img.shields.io/badge/Sponsor%20Us-❤️-ff69b4?style=for-the-badge" /></a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-F7D252?logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ComfyUI-1E1E2E?logo=github&logoColor=white"/>
+</p>
+
 </p>
 
 ---
