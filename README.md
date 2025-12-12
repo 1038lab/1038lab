@@ -20,6 +20,7 @@
 | [**ComfyUI-JoyCaption**](https://github.com/1038lab/ComfyUI-JoyCaption) | LLaVA-powered captioning node with GGUF model support | ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-JoyCaption?style=social) |
 | [**ComfyUI-MiniCPM**](https://github.com/1038lab/ComfyUI-MiniCPM) | Vision-language model integration for image captioning and analysis | ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-MiniCPM?style=social) |
 | [**ComfyUI-WildPromptor**](https://github.com/1038lab/ComfyUI-WildPromptor) | Streamlined prompt creation and management for ComfyUI | ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-WildPromptor?style=social) |
+| [**ComfyUI-VoxCPMTTS**](https://github.com/1038lab/ComfyUI-VoxCPMTTS) | Rapid and accurate voice cloning for ComfyUI.| ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-VoxCPMTTS?style=social) |
 
 ---
 
