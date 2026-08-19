@@ -21,6 +21,7 @@
 | [**ComfyUI-MiniCPM**](https://github.com/1038lab/ComfyUI-MiniCPM) | Vision-language model integration for image captioning and analysis | ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-MiniCPM?style=social) |
 | [**ComfyUI-WildPromptor**](https://github.com/1038lab/ComfyUI-WildPromptor) | Streamlined prompt creation and management for ComfyUI | ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-WildPromptor?style=social) |
 | [**ComfyUI-QwenTTS**](https://github.com/1038lab/ComfyUI-QwenTTS) | ComfyUI custom nodes for speech, voice cloning, and voice design based on Qwen3-TTS models| ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-QwenTTS?style=social) |
+| [**ComfyUI-MiniMax-H3-Promptor**](https://github.com/1038lab/ComfyUI-MiniMax-H3-Promptor) | ComfyUI custom nodes for automation suite for generating cinema-production-grade prompts explicitly formatted for the MiniMax H3 Video Generation System| ![Stars](https://img.shields.io/github/stars/1038lab/ComfyUI-MiniMax-H3-Promptor?style=social) |
 
 ---
 
